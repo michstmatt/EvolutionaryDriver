@@ -22,9 +22,9 @@ automatically exported
 This model is takes input from sensors and produces a float value between -1 and 
 +1 for all outputs 
 
-## Sig (Sigmoid)
+## Sig (Sigmoid) Perceptron model
 Same as regression but coherces the value to either -1 or +1 (no floating 
-points) for all outputs
+points) for all outputs known as a perceptron
 
 ## Multilayer
 There is also multilayer which is a neural network, one with neurons that do 

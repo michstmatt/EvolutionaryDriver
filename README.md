@@ -38,9 +38,9 @@ These waypoints are used for the fitness function of the Genetic Algorithm (GA).
 The "drivers" have no idea about the waypoints are soley used for evalutaion.
 
 
-#Docs
-[Official Writeup](./docs/CSE_841_Project_Proposal.pdf).
-[Presentation](./docs/Evolutionary_Driver.pdf).
+# Docs
+- [Official Writeup](./docs/CSE_841_Project_Proposal.pdf).
+- [Presentation](./docs/Evolutionary_Driver.pdf).
 
 
 
